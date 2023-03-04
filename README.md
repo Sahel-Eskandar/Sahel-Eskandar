@@ -17,6 +17,7 @@
 
 </p>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sahel-Eskandar&repo=Text-Classification-Sentimental-Analysis)](https://github.com/Sahel-Eskandar/Text-Classification-Sentimental-Analysis)
+</p>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sahel-Eskandar&repo=RecommenderSystems)](https://github.com/Sahel-Eskandar/RecommenderSystems)
 
 </p>
