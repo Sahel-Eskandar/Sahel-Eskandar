@@ -16,8 +16,8 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/Sahel-Eskandar/)
 
 </p>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sahel-Eskandar=differ)](https://github.com//Text-Classification-Sentimental-Analysis)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sahel-Eskandar&repo=simple-sqlite)]([https://github.com/Sahel-Eskandar](https://github.com/Sahel-Eskandar/RecommenderSystems)/simple-sqlite)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sahel-Eskandar&repo=Text-Classification-Sentimental-Analysis)](https://github.com/Sahel-Eskandar/Text-Classification-Sentimental-Analysis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sahel-Eskandar&repo=RecommenderSystems)](https://github.com/Sahel-Eskandar/RecommenderSystems)
 
 </p>
 
