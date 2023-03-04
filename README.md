@@ -15,10 +15,6 @@
   - :bulb: [Medium articles](https://medium.com/@eskandar.sahel)
   - :office: [LinkedIn](https://www.linkedin.com/in/Sahel-Eskandar/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sahel_eskandar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahel_eskandar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sahel_eskandar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahel_eskandar" height="30" width="40" /></a>
 </p>
 <p><h3 align="center"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/1" alt="Recent Article 1">
