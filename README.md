@@ -14,10 +14,10 @@
   - ⚡ **eskandar.sahel@gmail.com**
   - :bulb: [Medium articles](https://medium.com/@eskandar.sahel)
   - :office: [LinkedIn](https://www.linkedin.com/in/Sahel-Eskandar/)
-
+Most Recent Projects:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sahel-Eskandar&repo=Text-Classification-Sentimental-Analysis)](https://github.com/Sahel-Eskandar/Text-Classification-Sentimental-Analysis)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sahel-Eskandar&repo=RecommenderSystems)](https://github.com/Sahel-Eskandar/RecommenderSystems)
-
+Most Recent Medium Articles:
 </p>
 <p><h3 align="center">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/0" alt="Recent Article 0">
