@@ -32,7 +32,7 @@
 
 <p><h3 align="center"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/1" alt="Recent Article 1"></h3></p>
 
-
+<p><h3 align="center"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/2" alt="Recent Article 2"></h3></p>
 
 
 <h3 align="center">Languages and Tools</h3></p>
