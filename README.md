@@ -23,6 +23,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sahel-Eskandar&repo=RecommenderSystems)](https://github.com/Sahel-Eskandar/RecommenderSystems)
 
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sahel-Eskandar&repo=DataScience-Projects)](https://github.com/Sahel-Eskandar/DataScience-Projects)
+
 <h3 align="center">Most Recent Medium Articles</h3></p>
 
 
