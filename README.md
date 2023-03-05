@@ -15,14 +15,12 @@
   - :bulb: [Medium articles](https://medium.com/@eskandar.sahel)
   - :office: [LinkedIn](https://www.linkedin.com/in/Sahel-Eskandar/)
 
-</p>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sahel-Eskandar&repo=Text-Classification-Sentimental-Analysis)](https://github.com/Sahel-Eskandar/Text-Classification-Sentimental-Analysis)
-</p>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sahel-Eskandar&repo=RecommenderSystems)](https://github.com/Sahel-Eskandar/RecommenderSystems)
 
 </p>
-
-<p><h3 align="center"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/0" alt="Recent Article 0">
+<p><h3 align="center">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/1" alt="Recent Article 1">
 
 </p>
