@@ -2,7 +2,7 @@
 
 <h3 align="center">A Passionate Data Scientist in Canada</h3></p>
 
-- :zap: I love math, programming, data science, and psychology books
+- :zap: I love math, programming, data science, and reading psychology books
 - 🔭 I’m currently working on **Word2Vec**
 - 🌱 I’m currently learning **Transformers**
 - 👯 I’m looking to collaborate on **ML Debugging Projects**
