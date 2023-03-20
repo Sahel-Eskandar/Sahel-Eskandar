@@ -28,9 +28,9 @@
 
 <h3 align="center">Most Recent Medium Articles</h3></p>
 
-
+<h3 align="left">Housing Prices Methods and Approaches</h3></p>
 <p><h3 align="center"><a target="_blank" href="https://medium.com/@eskandar.sahel/developing-a-parsimonious-model-for-predicting-housing-prices-methods-and-approaches-64599438fe6b"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*fndAoFizVgxv916E.jpg"></h3></p>
-
+<h3 align="left">Recommender Systems Best Practices</h3></p>
 <p><h3 align="center"><a target="_blank" href="https://medium.com/@eskandar.sahel/recommender-systems-best-practices-a5962ae1b560"><img src="https://miro.medium.com/v2/resize:fit:1400/0*wWKGu5CtNc1o74lX" ></h3></p>
 
 <h3 align="center">Languages and Tools</h3></p>
