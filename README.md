@@ -29,7 +29,7 @@
 <h3 align="center">Most Recent Medium Articles</h3></p>
 
 
-<p><h3 align="center"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/0" alt="Recent Article 0"></h3></p>
+<p><h3 align="center"><a target="_blank" href="https://medium.com/@eskandar.sahel/developing-a-parsimonious-model-for-predicting-housing-prices-methods-and-approaches-64599438fe6b"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*fndAoFizVgxv916E.jpg"></h3></p>
 
 <p><h3 align="center"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/1" alt="Recent Article 1"></h3></p>
 
