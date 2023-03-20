@@ -31,12 +31,7 @@
 
 <p><h3 align="center"><a target="_blank" href="https://medium.com/@eskandar.sahel/developing-a-parsimonious-model-for-predicting-housing-prices-methods-and-approaches-64599438fe6b"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*fndAoFizVgxv916E.jpg"></h3></p>
 
-<p><h3 align="center"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/1" alt="Recent Article 1"></h3></p>
-
-<p><h3 align="center"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/2" alt="Recent Article 2"></h3></p>
-
-<p><h3 align="center"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eskandar.sahel/3" alt="Recent Article 3"></h3></p>
-
+<p><h3 align="center"><a target="_blank" href="https://medium.com/@eskandar.sahel/recommender-systems-best-practices-a5962ae1b560"><img src="https://miro.medium.com/v2/resize:fit:1400/0*wWKGu5CtNc1o74lX" ></h3></p>
 
 <h3 align="center">Languages and Tools</h3></p>
 
