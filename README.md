@@ -3,14 +3,16 @@
 <h3 align="center">A Passionate Data Scientist in Canada</h3></p>
 
 - :zap: I love math, programming, data science, and reading psychology books
-- 🔭 I’m currently working on **Word2Vec**
+- 🔭 I’m currently working on **Financial-related projects**
 - 🌱 I’m currently learning **Transformers**
 - 👯 I’m looking to collaborate on **ML Debugging Projects**
-- 🤝 I’m looking for help with **Heterogeneity**
-- 💬 Ask me about **Timeseries Anomaly Detection**
+- 🤝 I’m looking for collaboration opportunities 
+- 💬 Ask me about **Timeseries Anomaly Detection**, **LSTM**, and **ARIMA**
 - 📫 How to reach me: 
   - ⚡ **eskandar.sahel@gmail.com**
-  - :bulb: [Medium articles](https://medium.com/@eskandar.sahel)
+  
+  Follow me in:
+  - :bulb: [Medium](https://medium.com/@eskandar.sahel) 
   - :office: [LinkedIn](https://www.linkedin.com/in/Sahel-Eskandar/)
 
 <h3 align="center">Languages and Tools</h3></p>
