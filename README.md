@@ -2,12 +2,6 @@
 
 <h3 align="center">A Passionate Data Scientist in Canada</h3></p>
 
-- :zap: I love math, programming, data science, and reading psychology books
-- 🔭 I’m currently working on **Financial-related projects**
-- 🌱 I’m currently learning **Transformers**
-- 👯 I’m looking to collaborate on **ML Debugging Projects**
-- 🤝 I’m looking for collaboration opportunities 
-- 💬 Ask me about **Timeseries Anomaly Detection**, **LSTM**, and **ARIMA**
 - 📫 How to reach me: 
   - ⚡ **eskandar.sahel@gmail.com**
   
